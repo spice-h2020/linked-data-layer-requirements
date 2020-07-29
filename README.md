@@ -31,3 +31,44 @@ If not, you can submit such a story by opening a new issue and by putting the us
 
 Feel free to open new issues if you are not sure if the requirement is already covered by existing stories or you need some help for formulating the story.
 
+
+## Examples of stories
+
+This repository is meant to collect various kinds of stories. 
+Here you can find some examples of the most common kinds.
+
+#### Stories describing functional requirements (i.e. requirements describing how the system shall do)
+
+```
+[InappropriateContent] As a custodian/creator, I want to identify and filter user-generated content that can be inappropriate.
+```
+
+#### Stories describing non-functional requirements (i.e. requirements describing how the system shall be)
+
+```
+[PersistentURIs] As external developer, I want Linked Data Hub to use persistent URIs for the published resources so that published resources are stable and accessible over time.
+```
+
+#### Stories describing knowledge requirements (i.e. requirements describing what information the system shall be able to store)
+
+```
+[PerspectiveOnCulturalEntity] As a citizen, I want to express my perspective on a cultural entity, so that it is distinguished from others
+```
+
+#### Stories describing ontology alignments (i.e. requirements describing what alignments over ontology entities shall exist)
+
+```
+[EntityAlignement] As a knowledge engineer, I want to know whether different people are expressing the same concepts/facts, so that I can reason across multiple sources of knowledge.
+```
+
+#### Stories describing what knowledge shall be extracted from sources 
+
+```
+[IdentityExtraction] As a data scientist, I want to extract people names, and link them to public identities, so that I can merge/compare/enrich the knowledge about them.
+````
+
+#### Stories describing what reasoning service the system shall provide
+
+```
+[ReasoningOverCulturalEntities] As an ontology engineer, I want to perform deductive/inductive/analogical inferences over a fragment of the knowledge graph about a certain cultural object, so that implicit or hidden knowledge is materialised.
+```
