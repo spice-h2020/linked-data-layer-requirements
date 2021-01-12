@@ -1,7 +1,11 @@
-# Technical Requirements
+# Linked Data Layer Requirements
 
 
-This repository is meant for collecting the technical requirements for the SPICE's Linked Data Hub.
+This repository is meant for collecting the technical requirements for the SPICE's Linked Data Layer.
+
+This refers to the set of technologies for supporting interoperability across the agents in the SPICE ecosystem.
+
+The primary mediator in the LDL is the [Linked Data Hub](https://github.com/spice-h2020/linked-data-hub).
 
 All manner of contributions are important and anyone may propose new requirements.
 
@@ -18,8 +22,15 @@ They generally have the following form:
 For example, 
 
 ```
-[InappropriateContent] As a custodian/creator, I want to identify and filter user-generated content that can be inappropriate.
+[InappropriateContent] As a custodian/builder, I want to identify and filter user-generated content that can be inappropriate.
 ```
+
+## Types of users
+
+- Owner: the entity owning the copyright of the asset / content. For example, the artist, the governmental agency, the social media user
+- Custodian: the entity managing the asset and its metadata. For example, the museum, the national archive, the social media provider
+- Builder: the entity that offers a service on top of data provided by the custodian. For example, the company building a tourism application or a museum wanting to curate social media posts to enhance their collection.
+- End user: the citizen that interacts with cultural heritage through a social media or the scholar that studies the museum archive. They can produce new content, for which they are "owners".
 
 ## Guidelines for contributors
 
