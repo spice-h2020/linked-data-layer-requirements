@@ -27,10 +27,10 @@ For example,
 
 ## Types of users
 
-- Owner: the entity owning the copyright of the asset / content. For example, the artist, the governmental agency, the social media user
-- Custodian: the entity managing the asset and its metadata. For example, the museum, the national archive, the social media provider
-- Builder: the entity that offers a service on top of data provided by the custodian. For example, the company building a tourism application or a museum wanting to curate social media posts to enhance their collection.
-- End user: the citizen that interacts with cultural heritage through a social media or the scholar that studies the museum archive. They can produce new content, for which they are "owners".
+- **Owner**: the entity owning the copyright of the asset / content. For example, the artist, the governmental agency, the social media user
+- **Custodian**: the entity managing the asset and its metadata. For example, the museum, the national archive, the social media provider
+- **Builder**: the entity that offers a service on top of data provided by the custodian. For example, the company building a tourism application or a museum wanting to curate social media posts to enhance their collection.
+- **End user**: the citizen that interacts with cultural heritage through a social media or the scholar that studies the museum archive. They can produce new content, for which they are "owners".
 
 ## Guidelines for contributors
 
