@@ -14,7 +14,7 @@ def processLine(line):
 fil = None
 if not os.isatty(0):
     for line in sys.stdin:
-        lines = processLine(line.split(","))
+        lines = processLine(line.strip().split(","))
         for l in lines:
             print(l)
         
