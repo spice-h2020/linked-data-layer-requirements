@@ -83,3 +83,8 @@ Here you can find some examples of the most common kinds.
 ```
 [ReasoningOverCulturalEntities] As an ontology engineer, I want to perform deductive/inductive/analogical inferences over a fragment of the knowledge graph about a certain cultural object, so that implicit or hidden knowledge is materialised.
 ```
+
+## Generate CSV file
+```
+./as_csv.sh |./ungroup.py >requirements.csv
+``` 
