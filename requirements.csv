@@ -7,7 +7,7 @@ code,role,action,description
 [ExpressQualityFeatures],builder,express,"the quality of the asset and their features"
 [ExpressExemptions],custodian,express,"exemptions and characterize them"
 [ExpressExemptions],owner,express,"exemptions and characterize them"
-[ExpressPermissions],owner,express,"permissions
+[ExpressPermissions],owner,express,"permissions"
 [ExpressOffers],owner,express,"offers with relation to the assets I own."
 [BrowseMarketplace],curator,browse,"a marketplace of offers of digital assets"
 [BrowseMarketplace],owner,browse,"a marketplace of offers of digital assets"
